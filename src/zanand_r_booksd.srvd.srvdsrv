@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Books'
+define service ZANAND_R_BOOKSD {
+  expose zanand_r_books as Books;
+}

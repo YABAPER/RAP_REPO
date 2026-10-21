@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Fifa'
+define service ZAS_FIFA_2026_SD {
+  expose ZAS_FIFA_C_2026 as Teams;
+}

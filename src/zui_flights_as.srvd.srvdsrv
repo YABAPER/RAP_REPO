@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition for Flights'
+define service ZUI_FLIGHTS_AS {
+  expose ZIN_CONNECTION_AS;
+  expose ZI_FLIGHT_AS_R;
+}
